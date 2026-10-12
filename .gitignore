@@ -1,0 +1,6 @@
+contracts/cache
+contracts/out
+contracts/lib
+sdk/node_modules
+.env
+.DS_Store
